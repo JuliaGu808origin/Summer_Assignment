@@ -9,7 +9,7 @@ package summer_assignment;
  *
  * @author Julia
  */
-public class Summer_assignment { //
+public class Summer_assignment { // demo begin
 
     /**
      * @param args the command line arguments
