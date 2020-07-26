@@ -33,3 +33,4 @@ while True:
 for each in lists:
     total += each;
 print('summan: '+ str(total))
+
