@@ -16,14 +16,14 @@ class LeftAssignment1 extends React.Component {
         this.setState({text: event.target.value, show: false});
     }
 
-    // show() {
-    //     return (
-    //         <div className="ui pink massive label">
-    //             {text}
-    //         </div>
-
-    //     )
-    // }
+    show() {
+        return (
+            this.state.show ? (this.state.result ? <div className="ui pink massive label">Hej Stefan</div> 
+                                                      : <div className="ui pink massive label">Jaha du är inte Stefan</div>
+                                    )  
+                                 : ""
+        );
+    }
 
     render() {
 
@@ -37,10 +37,7 @@ class LeftAssignment1 extends React.Component {
                     <button className="ui button" type="submit">OK</button>
                 </form>
                 <br />
-                {this.state.show ? (this.state.result ? <div className="ui pink massive label">Hej Stefan</div> 
-                                                      : <div className="ui pink massive label">Jaha du är inte Stefan</div>
-                                    )  
-                                 : ""}
+                {this.show()}
             </div>
 
         );

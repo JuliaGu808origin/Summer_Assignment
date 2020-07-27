@@ -22,6 +22,7 @@
 /JavaScript/react-script/yarn.lock
 /JavaScript/react-script/coverage
 /JavaScript/react-script/build
+/JavaScript/react-script/.vs/
 .pnp.js
 .DS_Store
 .env.local
