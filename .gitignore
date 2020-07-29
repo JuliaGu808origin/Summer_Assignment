@@ -32,3 +32,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/CPPdemo/summerAssignment/.vs/
+/CPPdemo/summerAssignment/Debug
+/CPPdemo/summerAssignment/summerAssignment.sln
+/CPPdemo/summerAssignment/summerAssignment/Debug
+/CPPdemo/summerAssignment/summerAssignment/summerAssignment.vcxproj
+/CPPdemo/summerAssignment/summerAssignment/summerAssignment.vcxproj.filters
+/CPPdemo/summerAssignment/summerAssignment/summerAssignment.vcxproj.user
