@@ -1,5 +1,5 @@
 # Summer_Assignment
-Use Python, Java, React.js to complete the same little assignment demo
+Use Python, Java, React.js and C++ to complete the same little assignment demo
 
 Only push the important code classes to Github, others have been ignored
 
@@ -8,3 +8,5 @@ Only push the important code classes to Github, others have been ignored
 2. Java: Netbeans
 
 3. React: Visual Studio Code
+
+4. C++: Visual Studio 2019
